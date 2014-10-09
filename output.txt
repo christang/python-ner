@@ -1,0 +1,748 @@
+[u'http://datakind-prod.torchboxapps.com/blog/feeds/rss/', u'Fri, 03 Oct 2014 10:43:18 +0000']
+ACAPS
+ADD
+AMAZING
+APIs
+Aaron
+Aaron Beck
+Aaron Scheinberg
+Abhilash Kumar
+Access Project
+Action
+Adam Laiacano
+Afghanistan
+Aida Shoydokova
+Aimia
+Alastair
+Alastair Dant
+Alert
+Alex Matei
+Alex Vaughn
+Alistair Croll
+Alycia Usher Perez
+Aman Ahuja
+Amazon
+America
+American
+Amnesty
+Amnesty International
+Analytics Department
+Andrew
+Andrew Hill
+Andy Hull
+Annual Meeting
+Anoush Tatevossian
+Antoine Frange
+Anu Ghate
+Anu Sridharan
+Arabia
+Arabic
+Arabic Tweets
+Artist Adam Harvey
+Arturo Sánchez Correa
+Arun Ahuja
+Asmat Monaghan
+Atomic Labs
+Atrocity
+BANK
+BBL
+BIN
+BSc
+Bagel World
+Bahraini
+Bangalore
+Barnard College
+Bay Area
+Bayesian
+Beauty Operator
+Becoming Human
+Bed Stuy
+Below
+Ben Richardson
+Berkeley
+Berlin
+Big Data
+Big Data Analysis
+Big Impact
+Bill
+Bill Clinton
+Bladerunner
+Block Pruning Analysis
+Bob
+Bob Filbin
+Bonnie
+Bonus
+Brandon Behlendorf
+Brasil
+Brazil
+Brett
+Brett Stoudt
+Brian
+Brian Abelson
+Brian Dalessandro
+British
+Broadway
+Brokelyn
+Bruce Schneier
+Burak Arikan
+Burton
+Bushwick
+Buttle UK
+CEOs
+CGI
+CGI America
+CGI Annual
+CGI Annual Meetings
+CGI University
+CITE
+COUNT
+CSA
+CSR Leader
+CSV Soundsystem
+CTL
+CUNY
+Caitlin
+Caitlin McDonald
+Camp
+Canada
+CartoDB
+CartoDB CSS
+Cat Miller
+Cathy
+Causemopolitan
+Census
+Center
+Central Park
+Centre
+Centro
+Chapter Leaders
+Chapter Leaders Daryl Manning
+Chapters
+Cherry Blossom
+Cheryl
+Cheryl Heller
+Chicago
+Chief Data Scientist
+Children
+China
+Chris
+Chris Diehl
+Chris Tynan
+Chung
+Cities
+Citizens Advice
+Citizens Advice Bureau
+Citizenship
+City University
+Civic Data
+Civic Data Challenge
+Civic Health
+Civil Rights
+Claire Melamed
+Claire Schmidt
+Click
+Clinton Foundation
+Clinton Global Initiative
+Clinton Global Initiative Annual Meeting
+ClintonGlobal
+Columbia
+Columbia Universities
+Columbia University
+Columns
+Community Manager
+Community Safety Act
+Computational Social Science
+Computer Science
+Congress
+Cornell University
+Corruption
+Craig
+Crisis
+Crisis Text Line
+Crisis Trends
+DC
+DC Action
+DIVE
+DKHQ
+DKUK
+DOITT
+DSI
+DVSF
+Dark Knight
+Data
+Data Ambassador
+Data Ambassador Cathy
+Data Ambassadors
+Data Ambassadors Cathy
+Data Analytics
+Data Dive
+Data Engineer
+Data Hero
+Data Heroes
+Data Olympics
+Data Pot Luck
+Data Science
+Data Science Ivory Tower
+Data Scientist
+Data Scientists Work
+Data Sherpa
+Data Visualization Summit
+Data Warfare
+Data Without Borders
+Data Wizard
+Data Wrangler Lab
+DataCorp
+DataCorps
+DataCorps Ambassador Brian
+DataCorps Ambassadors
+DataDive
+DataDives
+DataJams
+DataKind
+DataKind Ambassador
+DataKind Bangalore
+DataKind Chapter
+DataKind Chapters
+DataKind Communications
+DataKind Community Manager
+DataKind DC
+DataKind Data Ambassador
+DataKind Dublin
+DataKind Executive
+DataKind Executive Director
+DataKind Founder
+DataKind Goes Full Time
+DataKind Meetup
+DataKind Singapore
+DataKind Tests Out New Project
+DataKind UK
+DataKind Volunteer Friederike Schüür
+DataKind Volunteer Katya Vasilaky
+DataKindDC
+DataKindUK
+DataKinders
+Datakind
+Datascope Analytics
+Datos
+Dave Goodsmith
+DeWilde
+Demand
+Demand Conference
+Democracy
+Derek Gyateng
+Development Projects
+Dianna Kane
+Digital Humanitarian Network
+Digital Science
+Directors
+Doha
+Doing Data Science
+Donna Lieberman
+Douglass North
+Drew
+Drew Conway
+DropBox
+Dublin
+Duncan
+Duncan Ross
+EMC
+EVIL
+EWB
+Earth Institute
+East Africa
+Economic Change
+Eden
+Edinburgh
+Egypt
+Elena Eneva
+Emily
+Emily Chow
+Emma Prest
+EnAble India
+Engine Room
+Engineers Without Borders Canada
+England
+English
+Enlace
+Environmenal Conservation
+Environmental Conservation
+Escuela
+Ethan
+Ethical Responsibilities
+European
+Excel
+Executive
+Executive Director
+Expect
+Experience Sought
+Extremely Poor
+Eyeo
+FEMA
+Facebook
+Fargo
+Fathom
+Felienne Hermanns
+Floyd
+Fort Greene
+Founder
+Founder Jake Porway
+Foursquare
+Fran
+Fran Bennett
+Fraud
+Free School Meals
+Friederike
+GIS
+GPS
+Gaurav Godhwani
+General Manager
+George Roter
+Ghana
+Gianfranco Cecconi
+Gibson
+GitHub
+Github
+Give Directly
+GiveDirectly
+Global Health
+Global South
+Global Witness
+Golden Gate
+Good
+Google
+Google Fusion
+Grameen Foundation
+Grand
+Greater Good
+Greek
+GreenPlum
+Guardian
+Guba
+Guest Post
+Gwen Rubenstein
+HDX
+HUGE
+HackPad
+Hackpads
+Halfway
+Hampshire County Council
+HarassMap
+Harvard
+HelpAge
+HelpAge International
+Herve Schnegg
+Hilton Metropole
+Hippocratic Oath
+Hopper
+Hospital
+Hrachuhi Sarkisyan
+Humane Society
+Humanitarian
+Humanitarian Affairs
+Humanitarian Data Exchange
+Humanitarian Emergencies
+Humanity
+Humanity United
+HyeSook Chung
+IBM Information
+IBM Thomas J. Watson Research Center
+ITP
+Iago Martinez
+Ignacio
+Incentives
+India
+Info4Disasters
+Innovation Enterprise
+Insight
+International Affairs
+International Rescue Committee
+Iraq
+Ireland
+Italy
+Jack Harrison
+Jacobi Church
+Jake
+Jake Levitas
+Jake Porway
+James Abley
+James Stewart
+Jason
+Jason Burwen
+Jason Hoekstra
+Java
+Javascript
+Javier Teran
+Jean Vanier
+Jerzy Wieczorek
+Jesse Kris
+Jive Software
+John Jay College
+Jon Sedar
+Jon Steinbeck
+Jonah
+Jonathan
+Jonathan Corum
+Jonathan Safran Foer
+Josh Nesbit
+Josh Wenk
+Josie Warden
+Juan
+Julia Marden
+Juliet
+KDD
+KIDS
+Kai Xin
+Kaitlin Thaney
+Kalyani Magazine
+Kamalesh Rao
+Kansas City
+Katharine Hepburn
+Katharine Matsumoto
+Katya Vasilaky
+Keith Goldthorpe
+Kenya
+Kenyan
+Keyfund
+Kickoff
+Kids
+Kim
+Kim Rees
+Knight Foundation
+Knight Foundation Blog
+Kriti Murthy
+Kurt Lewin
+Kush
+Kush Varshney
+Lake Orta
+Las Vegas
+Laura Bunt
+Laura Rodriguez Takeuchi
+Lede Program
+Lela
+LexisNexis
+LiST
+Library Science
+Libya
+Lincoln
+Lived Saves Tool
+Lives Saved Tool
+Local Governance
+Londata
+London
+Louise Marston
+Lucy Chambers
+Luis Capelo
+MAY
+MIT
+MODA
+MSc
+Machine Learning
+Madeleine Thornton
+Manhattan
+Map Action
+MapBox
+Martian
+Maryland
+Maseno University
+Massachusetts Institute
+Mastodon
+Math Department
+Math Destruction
+Mathematical Sciences
+Matlab
+Max
+Max Richman
+McClellan
+McDonald
+Medic
+Medic Mobile
+Meetup
+Meetups
+Megan Price
+Mia Newman
+Mike
+Mike Dewar
+Mike Stringer
+Milan
+Minchau
+Minhchau
+Minnesota
+Mission Continues
+Mobile Accord
+Model Challenge
+Monte Carlo
+Morris Justice Project
+Mozilla
+Mozilla Foundation
+Mozilla HQ
+Mozilla Science Lab
+Mozilla Space
+Mr. Bisujaksha
+Mungo
+Murray
+Music
+NASA
+NCoC
+NDA
+NEEDED
+NESTA
+NGO
+NGO Whisperer
+NGOs
+NSA
+NV
+NY
+NYC
+NYC DOITT
+NYC Data Week
+NYC Mayor
+NYC Meetup
+NYC Parks
+NYC Parks Department
+NYCLU
+NYPD
+NYS
+NYS Department
+NYU
+National Geographic
+National Wildlife Federation
+NetImpact
+New
+New Work City
+New York
+New York City
+New York City Council
+New York City Street
+New York Civil Liberties Union
+New York Constitution
+New York Tech Meetup
+New York Times
+New York University
+New Yorkers
+Nexleaf
+NextDrop
+NiJel
+Nick
+Nick McClellan
+North East
+Northern Uganda
+OKCon
+OKFest
+Obama
+Oculus Rift
+Oliver Chen
+Online Conference
+Open Crisis
+Open Data
+Open Knowledge Foundation School
+OpenCrisis
+OpenIDEO
+OpenNews
+Oxfam
+OxfamGB
+Oxymoron
+PAR
+PETA
+PHP
+PLEASE
+PTSD
+Pakistan Independence
+Parker
+Parker Mitchell
+Pashû Pathina Christensen
+Patrick Alley
+Paul Davis
+Paul Ellwood
+Paulo Freire
+Periscopic
+Pete Darche
+Peter Darche
+Peter Passaro
+Philippines
+Pitch Interactive
+Pivotal
+Place2Be
+Please
+Pretty Woman
+Pro Bono
+Program Leader
+Programs Strategist
+Project Manager
+Pui Kwan Lee
+Python
+QCRI
+QCRI Hiring Data Scientists
+Qatar Computing Research Institute
+Queens
+RELEVANT
+RESTful
+RESTfully
+RESULTS
+RU
+Rahul Thota
+Rajith Shaji
+Ray Kelly
+Rayid Ghani
+Record Linkage
+Red Cross Chicago
+Red Hook
+Refugees United
+RentSpecs
+René Nielsen
+Research Associate
+Researcher Kate Crawford
+Residence
+Residence Program
+Responsive Politics
+Right To Information Campaigners
+Rights
+Rishi Nalin Kumar
+Risk Map
+Riskmetrics
+Robert Lehmann
+Robin Deutsch Edwards
+Romeo
+Rosnay
+Ruby
+SMS
+SPIEL
+SQL
+SSL
+SVA
+Salesforce
+Samir
+Samir Goswami
+San Francisco
+Sandra Harding
+Sandy
+Santa Clara
+Sara
+Sara LaPlante
+Science
+Scott Davidoff
+Screen
+ServiceSpace
+Seth Feaster
+Shannon
+Shauna
+Shawshank Redemption
+Sheffield
+Shrikanth Jagannathan
+Shubha Bala
+Silicon Alley
+Silicon Valley
+Simply
+Singapore
+Sisi
+Sisi Wei
+Slate
+Smithsonian
+Social Good
+Social Innovation
+Society
+Software Engineers
+Sohaib Hasan
+Solomon Kahn
+Sonali Murarka
+Sonia Mehta
+Sorry
+South
+South Africa
+South Bronx
+Southeast Asia
+Standby Task Force
+Stanton
+Star Chase
+Stata
+Stewart
+Stewart Townsend
+Stian Westlake
+Strata
+Strata Conference
+Strata London
+Strata NYC
+Strata Santa Clara
+Stratas
+Successful Track Record
+Summit
+Sunlight
+Sunlight Foundation
+Syria
+THORN
+TTC
+TTC Camp
+Tableau
+Tactical Technology Collective
+Taproot Foundation
+Team Awesome
+Tech Challenge
+Technology
+Technology Policy
+Teradata
+Terp
+Thomson Reuters
+Thorn
+Thoughtworks
+Tim
+Tim Rich
+Tom
+Tom Levine
+TopCoder
+Toronto
+Transportation
+Tristan Aubert
+Tushar
+Twitter
+U.S.
+UK
+UN
+UN Global Pulse
+UNDP
+UNOCHA
+US
+US Budget
+USA
+USAID
+Uganda
+Ugandan
+United Nations
+United States
+University
+Urgent Action Alerts
+Ushahidi
+VPN
+Vegas
+Velos
+Verona
+Veronica Ludwig
+Vienna
+Vinod
+Virginia
+Visualized
+Vizzuality
+Vlad Dubovskiy
+Volunteer Magnet
+Volunteers
+Vote
+WILL
+WNYC
+Wales
+Walker Art Center
+Wall St.
+Washington
+Washington DC
+White
+White House
+Will
+Will Durbin
+Will High
+Windy City
+Winter
+Women
+World Bank
+Wright
+Yankee Stadium
+fMRI
+iPad
+iPads
+longKeep
